@@ -116,7 +116,7 @@ a {
 .logo-icon {
   width: 70px;
   height: 70px;
-  background: var(--primary);
+  
   border-radius: 8px;
   display: flex;
   align-items: center;
